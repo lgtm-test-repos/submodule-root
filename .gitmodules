@@ -1,0 +1,6 @@
+[submodule "submodule-alpha"]
+	path = libs/submodule-alpha
+	url = ../submodule-alpha.git
+[submodule "submodule-alpha-absolute"]
+	path = submodule-alpha
+	url = https://github.com/lgtm-test-repos/submodule-alpha-absolute.git
